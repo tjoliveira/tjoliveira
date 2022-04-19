@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🤔 A
+- 🌱 I’m currently learning about infrastructure as code.
+- ⚡ I would really appraciate some feedback, good or bad, about my repos. 
+- 💬 Ask me about anything (I enjoy discussions!)
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
