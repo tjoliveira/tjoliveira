@@ -20,7 +20,6 @@
 
 </p>
   
-- 🌱 I’m currently learning about infrastructure as code.
 - ⚡ I would really appreciate some feedback, good or bad, about my repos. 
 - 💬 Ask me about anything (I enjoy discussions!).
 
