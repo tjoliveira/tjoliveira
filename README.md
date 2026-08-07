@@ -15,7 +15,7 @@
 
 ---
 
-AI Scientist at Rakuten, based in Tokyo. I work on multimodal AI, computer vision, and generative AI — mostly building things that ship. Background in research, now firmly in industry.
+AI Scientist at Rakuten, based in Tokyo. I work on multimodal AI, computer vision, and generative AI — fine-tuning VLMs, building diffusion pipelines, and wiring up agentic workflows. I started in academia (medical AI, decision support systems) and gradually moved to industry, where I get to actually ship things. Most of my interesting work lives in private repos, but feel free to reach out.
 
 ---
 
@@ -35,5 +35,5 @@ AI Scientist at Rakuten, based in Tokyo. I work on multimodal AI, computer visio
 ### GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjoliveira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjoliveira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
