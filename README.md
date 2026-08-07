@@ -35,9 +35,5 @@ AI Scientist at Rakuten, based in Tokyo. I work on multimodal AI, computer visio
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tjoliveira&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjoliveira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="github-metrics.svg" alt="GitHub Metrics"/>
 </p>
